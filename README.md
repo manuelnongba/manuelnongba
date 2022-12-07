@@ -1,4 +1,4 @@
-- Hi 😎, I’m @manuelnongba
+- Hi 😎, I’m [Emma](google.com)
 - I’m a Software Engineer 💻
 - Reach me on eanongba19@gmail.com 📫
 
