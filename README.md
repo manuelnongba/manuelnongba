@@ -1,4 +1,4 @@
-- Hi 😎, I’m [Emma](https://www.google.com)
+- Hi 😎, I’m Emma(https://www.google.com)
 - I’m a Software Engineer 💻
 - Reach me on eanongba19@gmail.com 📫
 
