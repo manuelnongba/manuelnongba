@@ -1,6 +1,6 @@
-- Hi 😎, I’m [Emmanuel](@manuelnongba)
+- Hi 😎, I’m [Emmanuel Anongba](https://github.com/manuelnongba?tab=repositories)
 - I’m a Software Engineer 💻
-- Reach me on eanongba19@gmail.com 📫
+- Reach me at eanongba19@gmail.com 📫
 
 <!---
 manuelnongba/manuelnongba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
