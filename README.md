@@ -1,5 +1,5 @@
-- Hi 😎, I’m [Emmanuel Anongba](https://github.com/manuelnongba?tab=repositories)
-- I’m a Software Engineer 💻
+- Hi 😎, I’m [Emmanuel Anongba](https://manuelnongba.github.io/)
+- I’m a Full-Stack Engineer 💻
 - Reach me at eanongba19@gmail.com 📫
 
 <!---
